@@ -1,0 +1,30 @@
+#display > div > a > h1{
+    color:rgb(231, 109, 109);
+    text-align: left;
+}
+
+#display div a h1:hover{
+    color:black;
+}
+.border{
+    border: 1px  black solid;
+    text-align: center;
+}
+.borderName h1{
+    display: flex;
+    /* display: inline-flex; */
+    border: 1px brown solid;
+    margin: 6px;
+    margin-right: 80%;
+    text-decoration: none ;
+    text-align: center ;
+ 
+}
+
+a{
+    text-decoration: none ;
+}
+
+.center{
+    text-align: center;
+}
